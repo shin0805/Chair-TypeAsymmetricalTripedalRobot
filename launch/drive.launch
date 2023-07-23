@@ -1,0 +1,9 @@
+<launch>
+  <arg name="port" default="/dev/ttyACM0"/>
+  <arg name="baud" default="57600"/>
+
+  <!-- run rosserial node -->
+  <node pkg="rosserial_python" type="serial_node.py" name="serial_node" args="$(arg port) $(arg baud)" output="screen">
+    <rosparam command="load" file="param.yaml"/>
+  </node>
+</launch>
