@@ -16,6 +16,7 @@ sudo apt-get install ros-${ROS_DISTRO}-rosserial
 
 ### Python
 ```shell
+pip install rospkg
 pip install numpy
 pip install onnxruntime
 ```
