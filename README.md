@@ -38,6 +38,6 @@ cd src
 - `embedded`: Programs to be flashed onto Arduino Nano Every.
 - `launch`: ROS launch files.
 - `models`: Pre-trained models saved in ONNX format.
-- `src`: Pose planning programs, including five types  
+- `src`: Gate Generating programs, including five types  
 connect_walk.py, connect_walk.py, rl_walk.py, rl_stand.py, rl_walk_and_stand.py.
 - `video`: Demonstration videos.
