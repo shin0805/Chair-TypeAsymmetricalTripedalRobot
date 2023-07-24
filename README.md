@@ -37,6 +37,7 @@ cd src
 ## Description
 - `embedded`: Programs to be flashed onto Arduino Nano Every.
 - `launch`: ROS launch files.
+- `mjcf`: MuJoCo XML File and STL files.
 - `models`: Pre-trained models saved in ONNX format.
 - `src`: Gate Generating programs, including five types  
 connect_walk.py, connect_walk.py, rl_walk.py, rl_stand.py, rl_walk_and_stand.py.
