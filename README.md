@@ -1,7 +1,7 @@
 # Body Design and Gait Generation of <br>Chair-Type Asymmetrical Tripedal Robot
 https://github.com/shin0805/Chair-TypeAsymmetricalTripedalRobot/assets/85533177/050d0ecf-bb20-4227-aa45-2a86b50bcce4
 
-## Instration
+## Installation
 - ROS
 
 You need to have ROS installed on your system. If you haven't installed ROS yet, follow the steps below:
