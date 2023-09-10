@@ -79,7 +79,8 @@ if __name__=="__main__":
   rotation_history[:,  3] = 1.0
   action_history = np.ones([numActionHis, 6])
   
-  device='cuda'
+  # device='cuda'
+  device='cpu'
   start_rotation = to_torch([[0, 0, 0, 1.]], device=device)
   inv_start_rot = quat_conjugate(start_rotation)
 
