@@ -6,7 +6,7 @@ ANGLE_MAX = 90 + 50
 STANDING_POS = np.array([[90, 80, 90, 100, 90, 100]])
 SLEEPING_POS = np.array([[130, 40, 50, 140, 90, 140]])
 
-EXTENTION_POS = np.array([[90, 80, 90, 150, 40, 90]])
+EXTENTION_POS = np.array([[90, 80, 90, 140, 50, 90]])
 ROLLED_POS = np.array([[130, 80, 40, 90, 150, 140]])
 
 FORRIGHT_POS1 = np.array([[90, 80, 60, 100, 90, 100]])

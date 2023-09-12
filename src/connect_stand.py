@@ -35,8 +35,8 @@ def addRise():
   global commands
   commands = np.concatenate([commands, linspace(STANDING_POS, EXTENTION_POS, 10)], 0) 
   commands = np.concatenate([commands, linspace(EXTENTION_POS, ROLLED_POS, 2)], 0) 
-  commands = np.concatenate([commands, linspace(ROLLED_POS, SLEEPING_POS, 10)], 0) 
-  commands = np.concatenate([commands, linspace(SLEEPING_POS, STANDING_POS, 7)], 0)
+  commands = np.concatenate([commands, linspace(ROLLED_POS, SLEEPING_POS, 25)], 0) 
+  commands = np.concatenate([commands, linspace(SLEEPING_POS, STANDING_POS, 10)], 0)
 
 def addStep():
   global commands
