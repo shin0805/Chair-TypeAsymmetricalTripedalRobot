@@ -42,4 +42,3 @@ cd src
 - `models`: Pre-trained models saved in ONNX format.
 - `src`: Gate Generating programs, including five types  
 connect_walk.py, connect_walk.py, rl_walk.py, rl_stand.py, rl_walk_and_stand.py.
-- `video`: Demonstration videos.
