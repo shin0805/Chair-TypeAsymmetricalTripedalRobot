@@ -1,5 +1,6 @@
-# Body Design and Gait Generation of <br>Chair-Type Asymmetrical Tripedal Robot
-https://github.com/shin0805/Chair-TypeAsymmetricalTripedalRobot/assets/85533177/050d0ecf-bb20-4227-aa45-2a86b50bcce4
+# Body Design and Gait Generation of <br>Chair-Type Asymmetrical Tripedal Low-rigidity Robot
+https://github.com/shin0805/Chair-TypeAsymmetricalTripedalRobot/assets/85533177/683db83c-ee3a-41c6-b362-29634ba3d665
+
 
 ## Installation
 - ROS
